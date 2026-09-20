@@ -1,6 +1,5 @@
 import math
 
-
 def main():
     A, B, C, D = map(int, input().split())
 
