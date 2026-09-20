@@ -1,4 +1,6 @@
+# https://neps.academy/br/exercise/268
 import math
+
 
 def main():
     A, B, C, D = map(int, input().split())
